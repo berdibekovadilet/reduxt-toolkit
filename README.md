@@ -3,9 +3,9 @@
 https://berdibekovadilet-todo.netlify.app/
 
 # Covers
-![cover](cover/1.jpg)
-![cover2](cover/2.jpg)
-![cover3](cover/3.jpg)
+![cover](cover/1.png)
+![cover2](cover/2.png)
+![cover3](cover/3.png)
 
 
 # Getting Started with Create React App
