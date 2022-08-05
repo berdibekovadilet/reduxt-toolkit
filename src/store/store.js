@@ -12,9 +12,11 @@ import {
 import storage from "redux-persist/lib/storage";
 
 import userSlice from "../features/user/userSlice";
+import todoSlice from "../features/todo/todoSlice";
 
 const rootReducer = combineReducers({
   user: userSlice,
+  todo: todoSlice,
 });
 
 const persistConfig = {
