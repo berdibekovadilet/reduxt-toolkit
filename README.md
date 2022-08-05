@@ -1,3 +1,13 @@
+# Redux Toolkit and createAsyncThunk practice
+# Live
+https://berdibekovadilet-todo.netlify.app/
+
+# Covers
+![cover](cover/1.jpg)
+![cover2](cover/2.jpg)
+![cover3](cover/3.jpg)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
