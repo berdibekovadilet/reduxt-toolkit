@@ -1,6 +1,6 @@
 # Redux Toolkit and createAsyncThunk practice
 # Live
-https://berdibekovadilet-todo.netlify.app/
+https://rtklasyncthunk.netlify.app/
 
 # Covers
 ![cover](cover/1.png)
